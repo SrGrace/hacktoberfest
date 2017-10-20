@@ -20,4 +20,5 @@
 - [cric_score](https://github.com/SrGrace/cric_score) Live Cricket Scores form Cricbuzz 
 
 ### Profile Link
-[Sourav Verma] (https://github.com/SrGrace)
+
+[Sourav Verma](https://github.com/SrGrace)
